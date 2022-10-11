@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Power Platform Licensing Service</title>
+  <link>https://github.com/nschreder/communitytools/LicensingApp</link>
+  <description>Overview of all Power Platform licenses.</description>
+  <item>
+    <title>Power Apps Developer Plan</title>
+    <description>Access and customise your own Dataverse environment. 200MB Database, 2GB file storage. Does not count to tenant's overall quota. Individual use only.</description>
+    <link></link>
+    <category>Dataverse</category>
+  </item>
+  <item>
+    <title>Power Apps Developer Plan</title>
+    <description>750 flow runs per month.</description>
+    <link></link>
+    <category>Power Platform API Requests</category>
+  </item>
+  <item>
+    <title>O365 and M365</title>
+    <description>Dataverse for Teams including 5 + 1 environment per 20 eligible licences, 2GB per environment.</description>
+    <link></link>
+    <category>Dataverse</category>
+  </item>
+  <item>
+    <title>O365 and M365</title>
+    <description>2,000 API requests per user per 24-hour period.</description>
+    <link></link>
+    <category>Power Platform API Requests</category>
+  </item>
+</channel>
+</rss>
