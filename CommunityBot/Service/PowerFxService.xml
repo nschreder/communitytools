@@ -9,14 +9,11 @@
     <description>
       <![CDATA[
         {
-          "Formular": "Day",
-          "Description": "Description",
-          "Link": "Link"
+          "Description": "The Day function returns the day component of a Date/Time value, ranging from 1 to 31.",
+          "Syntax": "Day(DateTime)",
+          "Example": "Day(Now())"
         }
       ]]>
-      The Day function returns the day component of a Date/Time value, ranging from 1 to 31.
-      Syntax: Day(DateTime)
-      Example: Day(Now())
     </description>
     <link>https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-datetime-parts</link>
     <category>Link</category>
