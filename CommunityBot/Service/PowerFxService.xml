@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <titlePower Fx Service</title>
-  <link>https://github.com/nschreder/communitytools/Community Bot</link>
+  <title>Power Fx Service</title>
+  <link>https://github.com/nschreder/communitytools/CommunityBot</link>
   <description>Overview of all Power Fx formulars with description and link to the official documentation.</description>
   <item>
     <title>Day</title>
